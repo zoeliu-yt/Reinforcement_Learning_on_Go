@@ -1,1 +1,4 @@
 Doc/
+Report/
+.Rhistory
+.DS_Store
